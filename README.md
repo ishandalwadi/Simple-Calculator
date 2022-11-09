@@ -2,7 +2,7 @@
 <img src="https://media0.giphy.com/media/LfQaJo2wbxB6radlve/giphy.gif?cid=ecf05e4767y2dxvk6ngx98wv8mrrgpvz4s1tolt2fp4sv21g&rid=giphy.gif&ct=g" width="75px">
 
 You can find it here:
-https://vrushalipachchigar.github.io/Simple-Calculator/
+https://ishandalwadi.github.io/Simple-Calculator/
 
 I made a basic calculator using HTML, CSS and Javascript.
 
@@ -19,7 +19,7 @@ It also includes features like switching to dark mode for better UI.
 
 
 ### Light theme:
-<img src="https://github.com/vrushalipachchigar/Simple-Calculator/blob/main/calc-light.png">
+<img src="https://github.com/ishandalwadi/Simple-Calculator/blob/main/calc-light.png">
 
 ### Dark theme:
-<img src="https://github.com/vrushalipachchigar/Simple-Calculator/blob/main/calc-dark.png">
+<img src="https://github.com/ishandalwadi/Simple-Calculator/blob/main/calc-dark.png">
